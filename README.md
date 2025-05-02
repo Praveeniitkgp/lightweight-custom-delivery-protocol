@@ -1,8 +1,3 @@
-CS39006: Networks Laboratory
-Assignment 7: Lightweight Custom Discovery Protocol (CLDP)
-Name: Praveen Kumar
-Roll Number: 22CS10054
-
 
 1. Overview
 This project implements the Lightweight Custom Discovery Protocol (CLDP) using raw sockets in POSIX C. It includes a client (cldp_client.c) and a server (cldp_server.c) that communicate over a custom IP protocol (number 253).
